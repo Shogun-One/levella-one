@@ -38,7 +38,7 @@ export default function App() {
             position: "absolute",
             top: `${100 + Number(tilt.beta) / 2}px`,
             left: `${100 + Number(tilt.gamma) / 2}px`,
-            transform: "translate(-50%, -50%)`,
+            transform: "translate(-50%, -50%)",
             transition: "top 0.1s, left 0.1s",
           }}
         ></div>
