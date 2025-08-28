@@ -1,10 +1,8 @@
-import React from 'react'
-
 export default function App() {
   return (
-    <div style={{ textAlign: 'center', padding: '2rem' }}>
-      <h1>Levella One</h1>
-      <p>🚀 Leveling tool app base ready.</p>
+    <div style={{ textAlign: "center", marginTop: "50px" }}>
+      <h1>📏 Levella Level Tool</h1>
+      <p>This is the React app rendering properly!</p>
     </div>
-  )
+  );
 }
